@@ -10,4 +10,5 @@ public class MicrohardApplication {
 		SpringApplication.run(MicrohardApplication.class, args);
 	}
 
+
 }
